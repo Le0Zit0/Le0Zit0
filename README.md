@@ -3,7 +3,7 @@
 - 🔭 Atualmente em busca de uma vaga na área de TI
 - 🌱 Procuro aprender um pouco de cada seguimento 
 - 💬 Foco Desenvolvimento Web 
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 ##
 
