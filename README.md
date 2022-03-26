@@ -1,7 +1,7 @@
 ### Seja Bem-Vindo !! Eu sou Leonardo Cobra  🙋‍♂️
 
 - 🔭 Atualmente em busca de uma vaga na área de TI
-- 🌱 Procuro aprender um pouco de cada seguimento 
+- 🌱 Me aperfeiçoando em Desenvolvedor Front - End 
 - 💬 Foco Desenvolvimento Web 
 - 😄 Pronomes: ele/dele
 
